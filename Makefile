@@ -1,4 +1,4 @@
-all: main
+ all: main
 
 CC = clang
 override CFLAGS += -g -Wno-everything -pthread -lm
